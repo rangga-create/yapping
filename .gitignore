@@ -1,0 +1,12 @@
+node_modules/
+.next/
+dist/
+coverage/
+*.tsbuildinfo
+.env
+.env.local
+backend/.env
+frontend/.env.local
+*serviceAccount*.json
+firebase-service-account*.json
+.firebase/
